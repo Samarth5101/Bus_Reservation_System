@@ -76,4 +76,4 @@ To run this project locally, follow the steps below:
 
 ## Contact
 
-For any queries or issues, feel free to reach out at: [samarth.mishra373@example.com](mailto:samarth.mishra373@example.com)
+For any queries or issues, feel free to reach out at: [samarthmishra373@gmail.com](mailto:samarthmishra373@gmail.com)
